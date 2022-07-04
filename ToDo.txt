@@ -1,2 +1,3 @@
 test the site 
 add a 400 file
+update index page to be generic
